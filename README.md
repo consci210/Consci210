@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Enkokilish](https://github.com/consci210/-Enkokilish-)
 
-- 🌱 I’m currently learning **TypeScript , ML**
+- 👨‍💻   [Portfolio](https://helinaashenafi-portfolio.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://helinaashenafi-portfolio.netlify.app/](https://helinaashenafi-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://consci210.hashnode.dev/](https://consci210.hashnode.dev/)
+- 📝 I regularly write articles on [HashNode](https://consci210.hashnode.dev/)
 
 - 💬 Ask me about **Front end frameworks**
 
