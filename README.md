@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Enkokilish](https://github.com/consci210/-Enkokilish-)
 
-- 👨‍💻  [Some of my works](https://helinaashenafi-portfolio.netlify.app/)
+- 👨‍💻  [You can find my works here](https://helinaashenafi-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [HashNode](https://consci210.hashnode.dev/)
 
