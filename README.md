@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Helina</h1>
 <h3 align="center">👩‍💻 ✨ A frontend fanatic</h3>
 
-- 🔭 I’m currently working on [Enkokilish](https://github.com/consci210/-Enkokilish-)
+- 🔭 I’m currently working on Trekker
 
 - 👨‍💻  [You can find my works here](https://helinaashenafi-portfolio.netlify.app/)
 
