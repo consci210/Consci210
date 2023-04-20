@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [HashNode](https://consci210.hashnode.dev/)
 
-- 💬 Ask me about **Front end frameworks**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **Consci210@gmail.com**
 
